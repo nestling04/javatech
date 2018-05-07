@@ -1,0 +1,56 @@
+{
+  "furnitures": {
+    "furniture": [
+      {
+        "material": "Wood",
+        "name": "MonacoGamingChair",
+        "width": 1,
+        "length": 2,
+        "fabricdate": "2016.11.09",
+        "id": 21,
+        "type": "Chair",
+        "height": 3
+      },
+      {
+        "material": "Wood",
+        "name": "SilverstoneGamingChair",
+        "width": 2,
+        "length": 2,
+        "fabricdate": "2016.11.10",
+        "id": 22,
+        "type": "Chair",
+        "height": 3
+      },
+      {
+        "material": "dawv",
+        "name": "ad wa",
+        "width": 2321,
+        "length": 123,
+        "fabricdate": "1999.09.09",
+        "id": 23,
+        "type": "v awdva",
+        "height": 30
+      },
+      {
+        "material": "rq ",
+        "name": "qwe",
+        "width": 1421,
+        "length": 42142,
+        "fabricdate": "1999.12.12",
+        "id": 24,
+        "type": "qrwqfqwrfq",
+        "height": 424124
+      },
+      {
+        "material": "QWrW Qrq",
+        "name": "WQR QW",
+        "width": 5,
+        "length": 5,
+        "fabricdate": "2000.01.04",
+        "id": 25,
+        "type": "WRqw rqrsqer",
+        "height": 15
+      }
+    ]
+  }
+}

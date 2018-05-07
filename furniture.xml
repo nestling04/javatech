@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-2" standalone="no"?>
+<furnitures>
+<furniture>
+<id>21</id>
+<name>MonacoGamingChair</name>
+<material>Wood</material>
+<type>Chair</type>
+<width>1</width>
+<length>2</length>
+<height>3</height>
+<fabricdate>2016.11.09</fabricdate>
+</furniture>
+<furniture>
+<id>22</id>
+<name>SilverstoneGamingChair</name>
+<material>Wood</material>
+<type>Chair</type>
+<width>2</width>
+<length>2</length>
+<height>3</height>
+<fabricdate>2016.11.10</fabricdate>
+</furniture>
+<furniture>
+<id>23</id>
+<name>ad wa</name>
+<material>dawv</material>
+<type>v awdva</type>
+<width>2321</width>
+<length>123</length>
+<height>30</height>
+<fabricdate>1999.09.09</fabricdate>
+</furniture>
+<furniture>
+<id>24</id>
+<name>qwe</name>
+<material>rq </material>
+<type>qrwqfqwrfq</type>
+<width>1421</width>
+<length>42142</length>
+<height>424124</height>
+<fabricdate>1999.12.12</fabricdate>
+</furniture>
+<furniture>
+<id>25</id>
+<name>WQR QW</name>
+<material>QWrW Qrq</material>
+<type>WRqw rqrsqer</type>
+<width>5</width>
+<length>5</length>
+<height>15</height>
+<fabricdate>2000.01.04</fabricdate>
+</furniture>
+</furnitures>
